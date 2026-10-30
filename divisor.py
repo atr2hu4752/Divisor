@@ -230,7 +230,7 @@ with st.sidebar:
 # --- Header & Stats Bar ---
 st.markdown("""
 <div class="title-box">
-    <h1>🕵️ Divisor Detective</h1>
+    <h1>🕵️ Divisor Detective for Alice</h1>
     <p>Find the missing divisor to crack the code!</p>
 </div>
 """, unsafe_allow_html=True)
