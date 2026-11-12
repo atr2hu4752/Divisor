@@ -15,7 +15,7 @@ st.set_page_config(
 # Paste your full Google Sheet URL or ID here, or pass it via .streamlit/secrets.toml
 DEFAULT_SHEET_URL = st.secrets.get(
     "GOOGLE_SHEET_URL", 
-    "https://docs.google.com/spreadsheets/d/YOUR_SPREADSHEET_ID_HERE/edit"
+    "https://docs.google.com/spreadsheets/d/1OrTQ0UonsxQIWsid-GLcH-X8UcO4_Eu6ivlTUs7-wds/edit"
 )
 
 # --- Custom Kid-Friendly CSS & HTML Styles ---
